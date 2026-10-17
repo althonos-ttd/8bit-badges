@@ -8,6 +8,7 @@ STR_GRF_URL             :https://www.tt-forums.net/viewtopic.php?t=92033
 # Badge classes
 STR_CLASS_FLAG         :Country
 STR_CLASS_POWER        :Propulsion
+STR_CLASS_ATTRIBUTE    :Attribute
 
 # Flags - Country
 STR_FLAG_AD            :Andorra
@@ -275,3 +276,7 @@ STR_POWER_battery                     :Battery
 STR_POWER_gasoline                    :Petrol
 STR_POWER_natural_gas                 :Natural Gas
 STR_POWER_hydrogen                    :Hydrogen
+
+#attribute
+STR_ATTRIBUTE_push_pull               :Push-Pull
+STR_ATTRIBUTE_concept                 :Concept
